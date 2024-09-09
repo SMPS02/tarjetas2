@@ -25,14 +25,32 @@
     box-shadow: 2px 2px 20px gray;
 
 }
-.cartas:hover .cajafondo{
+.cartas:hover .caja1{
 
 
-    background-color: rgb(100, 0, 100);
+    background-color: rgb(0, 93, 100);
 }
-.cartas:hover .pdeprecio{
+.cartas:hover .caja2{
 
-    color: rgb(100, 0, 100);
+
+    background-color: rgb(100, 23, 0);
+}
+.cartas:hover .caja3{
+
+
+    background-color: rgb(0, 100, 42);
+}
+.cartas:hover .hover1{
+
+    color: rgb(0, 93, 100);
+}
+.cartas:hover .hover2{
+
+    color: rgb(100, 23, 0);
+}
+.cartas:hover .hover3{
+
+    color: rgb(0, 100, 42);
 }
 img{
     width: 110px;
@@ -83,7 +101,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(75, 73, 73);
     text-align: center;
 }
 .pdeprecio1{
@@ -95,7 +113,7 @@ p{
     color: rgb(196, 0, 0);
 }.pdeprecio3{
 
-    color: rgb(211, 211, 211);
+    color: rgb(75, 73, 73);
 }
 .Rating{
 
